@@ -1,0 +1,6 @@
+{
+  "name": "ERP Sales Reports Dashboard",
+  "description": "Enterprise Sales Reporting Dashboard (S1–S5) featuring multi-dimensional filtering, drill-downs, reconciled totals, and PDF/Excel exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
